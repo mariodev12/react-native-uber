@@ -2,7 +2,7 @@
 
 React Native App with the same style as Uber for iOS. I'm working on a serie of videos about how to make a Uber app on React Native.
 
-<img src="https://i.imgur.com/Ii4JmJp.jpg" width="100">
+<img src="https://i.imgur.com/Ii4JmJp.jpg" width="300">
 
 Installation
 ------------
